@@ -20,3 +20,10 @@ Using Transfer Learning with Language Model Trained on WikiText, then trained on
 * learn.predict("Biology is used in space") -> False
 * learn.predict("The White House makes mistakes about space") -> False
 * learn.predict("Station Crew Sees Typhoon from Space") -> False
+
+
+## Future Improvements
+* Gather more NASA/Space Articles
+* Use Article's Descriptions + Title
+* Experiment with Models Hyperparameters 
+* Increase number of Epochs
