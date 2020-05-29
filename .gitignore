@@ -1,0 +1,4 @@
+#remove trained models
+
+*.pkl
+*.pth
