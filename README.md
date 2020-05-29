@@ -2,7 +2,7 @@
 
 Goal: Predict whether a user will like new articles within a domain based on past likes
 
-## Wikitext Language Model -> NASA Article Title Language Model -> NASA Likes Classification Model
+## Wikitext Language Model --> NASA Article Title Language Model --> NASA Likes Classification Model
 
 Using Transfer Learning with Language Model Trained on WikiText, then trained on NASA Article Titles (Target Corpus) then transferred to Classification Model to Predict if Title is Liked
 
